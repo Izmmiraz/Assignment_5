@@ -1,0 +1,370 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+header{
+	width: 100%;
+	float: left;
+}
+.logo{
+	width: 30%;
+	float: left;
+	background-color: f6f9f9;
+	margin: 30px;
+}
+.banner{
+	width: 100%;
+	float: left;
+	background: url(../img/banner.jpg)no-repeat;
+}
+.banner-text{
+	text-align: center;
+	margin: 20px;
+
+}
+.banner h1{
+	font-size: 50px;
+	margin: 20px;
+	color: white;
+
+}
+.banner span{
+	display: block;
+	border: 1px solid #15a4fa;
+	width: 500px;
+	text-align: center;
+	margin: 5px auto;
+}
+.banner h3{
+	margin: 20px;
+	color: white;
+
+}
+.banner-btn{
+	padding:15px 30px ;
+	margin: 30px;
+	background: transparent;
+	border: 1px solid #15a4fa;
+	color: white;
+
+}
+.fa.fa-chevron-down{
+	color: white;
+	margin:200px;
+}
+.information{
+	width: 100%;
+	float: left;
+	background-color: #f6f9f9;
+
+}
+.text{
+	width: 100%;
+	float: left;
+	margin: 20px;
+
+}
+.text h1{
+	color: #2d3950;
+	text-align: center;
+	margin: 20px;
+	font-size: 50px;
+
+
+}
+.text h3{
+	color: #c4c6c6;
+	text-align: center;
+	margin: 20px;
+	
+
+}
+.icon{
+	width: 100%;
+	float: left;
+	background-color: #ffffff;
+}
+.icon-text{
+	margin: 20px;
+
+}
+.icon-one{
+	width: 33%;
+	float: left;
+
+}
+.icon-one h1{
+	color: #656e7f;
+	margin: 20px;
+	font-size: 30px;
+	text-align: center;
+
+}
+.icon-one h3{
+	color: #999999;
+	margin: 20px;
+	text-align: center;
+
+
+}
+.fa.fa-mobile{
+	width: 70px;
+	margin: 0px auto;
+	display: block;
+	background-color: #48baff;
+	text-align: center;
+	font-size: 50px;
+}
+.icon-two{
+	width: 33%;
+	float: left;
+
+}
+.icon-two h1{
+	color: #656e7f;
+	margin: 20px;
+	font-size: 30px;
+	text-align: center;
+	
+}
+.icon-two h3{
+	color: #999999;
+	margin: 20px;
+	text-align: center;
+
+	
+}
+.fa.fa-paper-plane-o{
+	width: 70px;
+	margin: 0px auto;
+	display: block;
+	background-color: #48baff;
+	text-align: center;
+	font-size: 50px;
+}
+
+.icon-three{
+	width: 33%;
+	float: left;
+
+}
+.icon-three h1{
+	color: #656e7f;
+	margin: 20px;
+	font-size: 30px;
+	text-align: center;
+	
+
+}
+.icon-three h3{
+	color: #999999;
+	margin: 20px;
+	text-align: center;
+
+}
+.fa.fa-microphone{
+	width: 70px;
+	margin: 0px auto;
+	display: block;
+	background-color: #48baff;
+	text-align: center;
+	font-size: 50px;
+}
+.image{
+	width: 100%;
+	float: left;
+	background-color: #f6f9f9;
+
+}
+.image-info{
+	margin: 20px;
+
+}
+.image-info h1{
+	color: black;
+	text-align: center;
+	margin: 20px;
+
+}
+.image-info h4{
+	color: #999999;
+	text-align: center;
+
+}
+.sec-one{
+	width: 100%;
+	float: left;
+
+}
+.img-one{
+	width: 33%;
+	float: left;
+
+}
+.img-two{
+	width: 33%;
+	float: left;
+
+}
+.img-three{
+	width: 33%;
+	float: left;
+
+}
+.sec-two{
+	width: 100%;
+	float: left;
+
+
+}
+.img-four{
+	width: 33%;
+	float: left;
+
+}
+.img-five{
+	width: 33%;
+	float: left;
+
+}
+.img-six{
+	width: 33%;
+	float: left;
+
+}
+.stay{
+	width: 100%;
+	float: left;
+	background: url(../img/bg.jpg) no-repeat;
+
+}
+.stay-text{
+	margin: 20px;
+
+}
+.stay-text h1{
+	text-align: center;
+	font-size: 40px;
+	color: #ffffff;
+
+}
+.stay-text h3{
+	text-align: center;
+	margin: 20px;
+	color: #6f7279;
+}
+.last{
+	width: 20%;
+	margin: 0px auto;
+}
+.name{
+	margin: 20px;
+	background: transparent;
+	color: #545c69;
+	padding: 15px 40px 15px 40px;
+	padding-left: 5px;
+	width: 80%;
+	border-color: #999999;
+
+
+}
+.email{
+	margin: 20px;
+	background: transparent;
+	color: #545c69;
+	padding: 15px 40px 15px 40px;
+	padding-left: 5px;
+	width: 80%;
+	border-color: #999999;
+}
+.msg{
+	margin: 20px;
+	background: transparent;
+	color: #545c69;
+	padding-left: 5px;
+	height: 100px;
+	width: 100%;
+	border-color: #999999;	
+}
+.text-send{
+	width: 100%;
+	float: left;
+}
+.send-btn{
+	float: right;
+	width: 40%;
+	background: transparent;
+	padding: 10px 15px;
+	color: white;
+	border-color: #15a4fa ;
+	margin: 20px;
+}
+footer{
+	width: 100%;
+	float: left;
+	background-color: #f6f9f9;
+
+}
+.sesh{
+	margin: 20px;
+
+}
+.copyright{
+	width: 70%;
+	float: left;
+
+}
+.copyright h2{
+	color:  #999999;
+
+}
+.icon-last{
+	width: 30%;
+	float: left;
+}
+.fa.fa-facebook{
+	margin: 10px;
+	font-size: 30px;
+	color: white;
+	background-color:#15a4fa ;
+	padding: 10px;
+
+}
+.fa.fa-twitter{
+	margin: 10px;
+	font-size: 30px;
+	color: white;
+	background-color:#15a4fa ;
+	padding: 10px;
+	
+
+
+}
+.fa.fa-google-plus{
+	margin: 10px;
+	font-size: 30px;
+	color: white;
+	background-color:#15a4fa ;
+	padding: 10px;
+
+}
+.fa.fa-linkedin{
+	margin: 10px;
+	font-size: 30px;
+	color: white;
+	background-color:#15a4fa ;
+	padding: 10px;
+
+}
+.fa.fa-square-o{
+	color: gray;
+
+}
+.last h3{
+	color: gray;
+
+}
